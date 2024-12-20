@@ -1,0 +1,18 @@
+[
+    {
+        "task": "good morning",
+        "done": true
+    },
+    {
+        "task": "good night",
+        "done": false
+    },
+    {
+        "task": "work 1",
+        "done": true
+    },
+    {
+        "task": "task 1",
+        "done": false
+    }
+]
